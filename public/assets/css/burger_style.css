@@ -1,0 +1,21 @@
+body {
+    background-color: #F4D580;
+}
+
+.container {
+    width: 70%;
+}
+
+h1 {
+    color: red;
+}
+
+.name {
+    float: left;
+    width: 60%;
+}
+
+.devour-button {
+    float: left;
+    margin: 20px;
+}
