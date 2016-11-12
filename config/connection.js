@@ -14,7 +14,7 @@ if(process.env.JAWSDB_URL) {
         host: 'localhost',
         user: 'root',
         password: '',
-        database: 'burgers_db'
+        database: 'mysql://wh98p3tqfbyv3p6s:en67za0b0wx5afut@enqhzd10cxh7hv2e.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/r3din62ky50i3o4z'
     });
 };
 
